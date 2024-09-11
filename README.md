@@ -23,13 +23,13 @@ Bu Python uygulaması, bir görsel dosyasının EXIF verilerini okuyarak GPS bil
 
 2. Tkinter kütüphanesi Python ile birlikte gelir, ancak bazı sistemlerde ayrıca yüklenmesi gerekebilir. Eğer yüklenmemişse, sisteminize uygun olarak yükleyin.
 
-3. `exif_viewer.py` dosyasını indirin.
+3. `main.py` dosyasını indirin.
 
 ## Kullanım
 
 1. Uygulamayı çalıştırın:
     ```bash
-    python exif_viewer.py
+    python main.py
     ```
 
 2. **"Yükle"** düğmesine tıklayarak bir görsel dosyası seçin.
