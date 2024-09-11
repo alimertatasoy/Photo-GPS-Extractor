@@ -21,7 +21,9 @@ Bu Python uygulaması, bir görsel dosyasının EXIF verilerini okuyarak GPS bil
     pip install pillow
     ```
 
-2. `exif_viewer.py` dosyasını indirin.
+2. Tkinter kütüphanesi Python ile birlikte gelir, ancak bazı sistemlerde ayrıca yüklenmesi gerekebilir. Eğer yüklenmemişse, sisteminize uygun olarak yükleyin.
+
+3. `exif_viewer.py` dosyasını indirin.
 
 ## Kullanım
 
@@ -49,5 +51,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## Katkıda Bulunanlar
 
-- [Sizin İsminiz] - Proje sahibi ve geliştirici
-
+- Ali Mert ATASOY - Proje sahibi ve geliştirici
